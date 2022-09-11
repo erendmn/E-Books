@@ -35,3 +35,36 @@
 18- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI by Shlomo Kashani, Amir Ivry: https://lnkd.in/gMFVTbrn
 
 19- Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David : https://lnkd.in/gEJGTfB7
+
+20-Algorithms Notes for Professionals book: https://lnkd.in/eX6YkWv
+ 
+21-Bayesian Reasoning and Machine Learning by David Barber: https://lnkd.in/g5bH8YNb
+ 
+22- 800+ Q&As about: Stats, Python, ML, DL, NLP, CV, MLOps by Steve Nouri: https://lnkd.in/g5vmvp_v
+ 
+23- An Introduction/A History of Data Science: https://lnkd.in/g8ahuvgc
+ 
+24- Introduction to Machine Learning by Alex Smola and S.V.N.
+Vishwanathan: https://lnkd.in/gHZrURPM
+ 
+25- Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville: https://lnkd.in/gDPiS5Fc
+ 
+26- Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper: https://www.nltk.org/book/
+ 
+27- Learn Python the Right Way by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers: https://lnkd.in/guHPGGcC
+ 
+28- Pandas: Powerful Python Data Analysis Toolkit by Wes McKinney and the Pandas Development Team: https://lnkd.in/gUWy_meU
+ 
+29- Neural Networks and Deep Learning by Michael Nielsen: https://lnkd.in/brReGHX
+ 
+30- Automate the Boring Stuff with Python by Al Sweigart: https://lnkd.in/dkVr5-n
+ 
+31- Patterns, Predictions, and Actions; A story about machine learning by Moritz Hardt and Benjamin Recht: https://lnkd.in/gVU7gf3h
+ 
+32- Advanced Excel by Towson University: https://lnkd.in/gU_kkfCZ
+ 
+33- The Data Science Handbook by Carl Shan, Henry Wang, William Chen, and Max Song: https://lnkd.in/g5wqFey
+ 
+34- Kubernetes Up and Running by Brendan Burns, Joe Beda & Kelsey Hightower: https://lnkd.in/eM_9arN3
+ 
+35- Introducing MLOps by Mark Treveil, Nicolas Omont, Clement Stenac, Kenji Lefevre, Du Phan: https://lnkd.in/gmrXWqV9
