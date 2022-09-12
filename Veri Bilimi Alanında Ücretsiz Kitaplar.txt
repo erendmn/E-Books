@@ -1,0 +1,321 @@
+Veri Bilimi Alanında Ücretsiz Kitaplar
+
+Robotik Alanındaki Kitaplar
+
+Robotics
+
+https://link.springer.com/book/10.1007%2F978-1-84628-642-1
+
+Fundamentals of Robotic Mechanical Systems
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-01851-5
+
+Robotics, Vision and Control
+
+https://link.springer.com/book/10.1007%2F978-3-642-20144-8
+
+Matematik ve İstatistik Alanındaki Kitaplar
+
+The Elements of Statistical Learning
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
+
+All of Statistics
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-21736-9
+
+Discrete Mathematics
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-21777-2
+
+Introduction to Partial Differential Equations
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
+
+A Modern Introduction to Probability and Statistics
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-84628-168-6
+
+An Introduction to Statistical Learning
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7138-7
+
+Introduction to Statistics and Data Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
+
+Applied Multivariate Statistical Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-662-45171-7
+
+Probability
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4612-4374-8
+
+Modeling Life
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-59731-7
+
+Statistical Analysis and Data Display
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5
+
+Linear Algebra
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-24346-7
+
+Applied Linear Algebra
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-91041-3
+
+Algebra
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0041-0
+
+Calculus With Applications
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7946-8
+
+Computational Geometry
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2
+
+Guide to Discrete Mathematics
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-44561-8
+
+Regression Modeling Strategies
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-19425-7
+
+Applied Predictive Modeling
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6849-3
+
+Applied Partial Differential Equations
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-12493-3
+
+Methods of Mathematical Modelling
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
+
+Time Series Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-75959-3
+
+Elementary Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6271-2
+
+Understanding Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2712-8
+
+Ordinary Differential Equations
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-3618-8
+
+Statistics and Data Analysis for Financial Engineering
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5
+
+Stochastic Processes and Calculus
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-23428-1
+
+Statistical Analysis of Clinical Data on a Pocket Calculator
+
+http://link.springer.com/openurl?genre=book&isbn=978-94-007-1211-9
+
+Multivariate Calculus and Geometry
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6419-7
+
+Statistics and Analysis of Scientific Data
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6572-4
+
+Linear Algebra Done Right
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-11080-6
+
+Programlama Alanındaki Kitaplar
+
+R Programlama Dili :
+
+A Beginner’s Guide to R
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
+
+Understanding Statistics Using R
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6227-9
+
+Bayesian Essentials with R
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-8687-9
+
+Introductory Statistics with R
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-79054-1
+
+Introductory Time Series with R
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
+
+Python Programlama Dili :
+
+A Beginners Guide to Python 3 Programming
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-030-20290-3
+
+Advanced Guide to Python 3 Programming
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3
+
+A Primer on Scientific Programming with Python
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-662-49887-3
+
+The Python Workbook
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-14240-1
+
+Data Structures and Algorithms with Python
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
+
+Python Programming Fundamentals
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6642-9
+
+Python For ArcGIS
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-18398-5
+
+Java Programlama Dili :
+
+Fundamentals of Java Programming
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-89491-1
+
+Java in Two Semesters
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-99420-8
+
+Derin Öğrenme Alanındaki Kitaplar
+
+Introduction to Deep Learning
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-73004-2
+
+Neural Networks and Deep Learning
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-94463-0
+
+Makine Öğrenmesi Alanındaki Kitaplar :
+
+An Introduction to Machine Learning
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-63913-0
+
+Machine Learning in Medicine — a Complete Overview
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-15195-3
+
+Veri Bilimi Alanındaki Kitaplar :
+
+The Data Science Design Manual
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-55444-0
+
+Introduction to Data Science
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-50017-1
+
+Data Science and Predictive Analytics
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-72347-1
+
+Bonus Kitaplar :
+
+Introduction to Artificial Intelligence
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-58487-4
+
+Data Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2
+
+Essentials of Business Analytics
+
+https://link.springer.com/book/10.1007%2F978-3-319-68837-4
+
+Excel Data Analysis
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-030-01279-3
+
+Analysis for Computer Scientists
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-91155-7
+
+Principles of Data Mining
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
+
+Data Mining
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8
+
+Intuitive Probability and Random Processes using MATLAB
+
+http://link.springer.com/openurl?genre=book&isbn=978-0-387-24158-6
+
+Introduction to Evolutionary Computing
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
+
+Linear and Nonlinear Programming
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
+
+LaTeX in 24 Hours
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
+
+Computer Vision
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
+
+Clinical Data Analysis on a Pocket Calculator
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-27104-0
+
+Introduction to Time Series and Forecasting
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-29854-2
+
+Modelling Computing Systems
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-84800-322-4
+
+Search Methodologies
+
+http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6940-7
+
+Foundations of Programming Languages
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-70790-7
+
+Cryptography Made Simple
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-319-21936-3
+
+Understanding Cryptography
+
+http://link.springer.com/openurl?genre=book&isbn=978-3-642-04101-3
+
+Recommender Systems
+
+https://link.springer.com/book/10.1007%2F978-3-319-29659-3
